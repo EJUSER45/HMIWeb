@@ -5,5 +5,5 @@ This is a test.
 This is section 2
 It is better now.
 # Section 3
-New Sec
+User 45 has also changed section 3 contents
 # Section 4
